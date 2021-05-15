@@ -1,0 +1,8 @@
+自适应手机电脑
+
+
+下方的两张图片我也不晓得改成啥，图片链接的链接在index.heml的66行跟84行
+源码更改了：右方折叠页面-社交-术の語、涼城，为Baidu的官网
+最下方的返回主页在index.heml的116行
+本地化121行js代码，原来是调用的
+<script src="https://jsstatic.bd.bcebos.com/jquery/jquery-migrate-1.2.1.min.js"></script>
